@@ -1,5 +1,4 @@
 'use strict';
-
 const allInputs = document.getElementsByTagName('input');
 
 

@@ -2,7 +2,6 @@
 
 const allInputs = document.getElementsByTagName('input');
 
-
 for (let item of allInputs) {
   const label = document.createElement('label');
   label.classList.add('field-label');
